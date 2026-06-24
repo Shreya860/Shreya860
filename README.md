@@ -1,5 +1,15 @@
 # 💫 About Me:
-B.Tech Student passionate about technology, problem-solving, and continuous learning.<br>I’m currently working on improving my coding skills and building small projects to strengthen my fundamentals.<br>I’m looking to collaborate on beginner-friendly tech projects, hackathons, and open-source contributions.<br>I’m looking for help with advanced programming concepts and real-world project experience.<br>I’m currently learning Data Structures & Algorithms, Web Development, and Python/Java.
+B.Tech student passionate about technology, problem-solving, and continuous learning.
+
+Currently working on improving my coding fundamentals by building small, practical projects.
+
+Currently learning Data Structures & Algorithms, Web Development, and Python/Java.
+
+Looking to collaborate on beginner-friendly tech projects, hackathons, and open-source contributions.
+
+Always open to guidance on advanced programming concepts and real-world project experience.
+
+Feel free to reach out — let's build something together.
 
 
 ## 🌐 Socials:
